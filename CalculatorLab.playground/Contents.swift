@@ -10,9 +10,9 @@ var mathProblem = "Welcome to Upperline Calculator! Follow the directions in the
 // example
 // addition
 
-var num1 = 1
+var num1: Double = 1
 
-var num2 = 1
+var num2: Double = 1
 
 var answer = num1 + num2
 
