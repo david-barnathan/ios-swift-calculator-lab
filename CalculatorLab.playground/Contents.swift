@@ -78,6 +78,7 @@ print("")
 // 5
 // exponents
 // use a method in the Darwin library to find the answer to 54^3
+// Look up "Calculate power of a number in swift" and see what you can find!
 num1
 
 num2
@@ -95,9 +96,9 @@ num1
 
 num2
 
-var num3: Int
+var num3: Double
 
-var num4: Int
+var num4: Double
 
 answer
 
@@ -108,11 +109,10 @@ print("")
 //-------------------------------------------------------------------------------------------------
 // 7
 // mathematical constants
-// use the Darwin library to get the value of pi
+// use the Darwin library to get the value of pi and set it to the constant defined below
+// Check out http://stackoverflow.com/questions/26324050/how-to-get-mathemical-pi-constant-in-swift
 
-// var pi = ___
-
-answer
+let pi: Double 
 
 // interpolate so that it prints the string "The value of pi is approximately 3.141592653589793"
 print("")
