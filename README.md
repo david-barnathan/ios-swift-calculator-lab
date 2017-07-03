@@ -1,4 +1,4 @@
-###Practicing Math with Swift
+### Practicing Math with Swift
 - We're going to put what we've learned about variables and data types into practice. We're going to build a calculator that works almost exactly like the one on your phone.
 
 - First, download [CalculatorLab.playground](https://github.com/upperlinecode/intro-to-swift/tree/master/day-1/CalculatorLab.playground)
