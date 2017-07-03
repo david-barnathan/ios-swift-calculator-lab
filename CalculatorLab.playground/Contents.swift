@@ -1,7 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
-import Darwin
+
 
 var mathProblem = "Welcome to Upperline Calculator! Follow the directions in the comments and fill in the missing values to complete the calculations. The 'user' will input two numbers into the variables num1 and num2, and you will complete the appropriate operation to the right of the answer variable."
 
@@ -109,7 +109,7 @@ print("")
 //-------------------------------------------------------------------------------------------------
 // 7
 // mathematical constants
-// use the Darwin library to get the value of pi and set it to the constant defined below
+// get the value of pi and set it to the constant defined below
 // Check out http://stackoverflow.com/questions/26324050/how-to-get-mathemical-pi-constant-in-swift
 
 let pi: Double 
@@ -120,7 +120,12 @@ print("")
 
 //-------------------------------------------------------------------------------------------------
 // 8 
-// Imani spent half of her weekly allowance playing mini-golf. To earn more money her parents let her wash the car for $4. What is her weekly allowance if she ended with $12?
+// Pick a number and saved into a variable make it a decimal value.
+// Step 1: Add 100 to the number then print a string that says "After adding 100 your number is..."
+// Step 2: Triple your number and print your result
+// Step 3: Now cut the number in half and print to the console
+// Step 4: Round to the nearest whole number and display on the console
+// Step 5: If you divided your result by 5, what would the remainder be? Then print "My power level is over \(Your_Variable_Here)"
 
 
 
