@@ -16,7 +16,7 @@ var num2: Double = 1
 
 var answer = num1 + num2
 
-// interpolate a string inside the print statement so that it prints the string "1.0 + 1.0 = 2.0"
+// concatenate a string inside the print statement so that it prints the string "1.0 + 1.0 = 2.0"
 // bonus: create new variables that hold Ints and cast the values of num1 and num2 to integers. Then interpolate the new variables so that the string reads "1 + 1 = 2"
 
 print("")
@@ -30,7 +30,7 @@ num2 = 40
 
 answer // caculate the new subtraction problem and store the answer in this variable
 
-// interpolate so that it prints the string "55 - 40 = 15"
+// concatenate so that it prints the string "55 - 40 = 15"
 print("")
 
 
