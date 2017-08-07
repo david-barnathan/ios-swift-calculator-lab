@@ -48,7 +48,7 @@ num2 = 3
 
 answer
 
-// interpolate so that it prints the string "4 * 3 = 12"
+// concatenate so that it prints the string "4 * 3 = 12"
 print("")
 
 
@@ -61,7 +61,7 @@ num2
 
 answer
 
-// interpolate so that it prints the string "20 / 4 = 5"
+// concatenate so that it prints the string "20 / 4 = 5"
 print("")
 
 
@@ -75,7 +75,7 @@ num2
 
 answer
 
-// interpolate so that it prints the string, complete with the answer "453 % 7 = ___"
+// concatenate so that it prints the string, complete with the answer "453 % 7 = ___"
 print("")
 
 
@@ -90,7 +90,7 @@ num2
 
 answer
 
-// interpolate so that it prints the string "54^3 = ___"
+// concatenate so that it prints the string "54^3 = ___"
 print("")
 
 
@@ -107,7 +107,7 @@ var num4: Double
 
 answer
 
-// interpolate so that it prints the string "(60 / 5) + (8 % 3)"
+// concatenate so that it prints the string "(60 / 5) + (8 % 3)"
 print("")
 
 
@@ -119,7 +119,7 @@ print("")
 
 let pi: Double 
 
-// interpolate so that it prints the string "The value of pi is approximately 3.141592653589793"
+// concatenate so that it prints the string "The value of pi is approximately 3.141592653589793"
 print("")
 
 
